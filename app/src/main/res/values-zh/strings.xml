@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">恋爱时光</string>
+    <string name="hello_world">欢迎使用“恋爱时光”！\n和你的伴侣一同记录属于你们的恋爱时光\n共同编辑，私享珍藏</string>
+    <string name="action_settings">设置</string>
+    <string name="new_moment_hint">用一张照片和一段文字来记录属于你们的一个时刻吧</string>
+    <string name="new_moment_hint_location">添加地点：</string>
+    <string name="title_activity_love_story">恋爱时光</string>
+    <string name="title_activity_new_love_story">记录一个时刻</string>
+    <string name="title_activity_web_view">WebView</string>
+    <string name="title_activity_log_in">登录</string>
+    <string name="title_activity_welcome">欢迎</string>
+    <string name="button_signup">注册</string>
+    <string name="button_login">登录</string>
+    <string name="button_logOut">退出</string>
+    <string name="signup">注册</string>
+    <string name="signup_username">用户名：</string>
+    <string name="signup_password">密码：</string>
+    <string name="signup_password2">请再次输入密码：</string>
+    <string name="signup_email">邮箱：</string>
+    <string name="submit">提交</string>
+    <string name="forget_password">忘记密码了吗？</string>
+    <string name="title_activity_forget_password">重设密码</string>
+    <string name="reset_password">请输入注册邮箱以找回密码</string>
+    <string name="match">与你的伴侣账号配对之后，便可以共同创建和编辑属于你们的恋爱时光啦！</string>
+    <string name="match_hint">伴侣的用户名：</string>
+    <string name="match_skip">暂时跳过</string>
+    <string name="title_activity_match_with_parther">与伴侣配对</string>
+    <string name="action_write">新建</string>
+    <string name="action_search">搜索</string>
+    <string name="title_activity_my_account">我的账号</string>
+    <string name="my_username">用户名： </string>
+    <string name="partner">伴侣： </string>
+    <string name="partner_notmatch">还没有和我的伴侣配对</string>
+    <string name="my_email">邮箱：</string>
+    <string name="gender_female">女</string>
+    <string name="gender_male">男</string>
+    <string name="title_activity_moment_detail">时刻</string>
+
+    <string name="credits">由王琳莹设计、开发
+        \n网站：linyingwang.wordpress.com
+        \n微信：haylin_wang
+        \n版权所有2015
+    </string>
+    <string name="title_activity_sort">排序</string>
+    <string name="delete_alertMsg">切莫冲动，误删你们的珍贵回忆</string>
+    <string name="delete_alertTtl">确定要删除吗？</string>
+    <string name="delete_cancel">取消</string>
+    <string name="delete_confirm">删除</string>
+    <string name="app_name_version">恋爱时光 版本1.0</string>
+    <string name="title_activity_edit">编辑</string>
+    <string name="toast_captureFail">拍照失败</string>
+    <string name="toast_delete">成功删除该时刻</string>
+    <string name="toast_done">上传完成</string>
+    <string name="toast_forgetPw">邮件已发送</string>
+    <string name="toast_imgSaved">照片已保存至</string>
+    <string name="toast_login">登录成功</string>
+    <string name="toast_logout">成功退出</string>
+    <string name="toast_match">成功与该用户配对：</string>
+    <string name="toast_match2">你和你的伴侣都需要互相配对以确认</string>
+    <string name="toast_matchAlready">你已经和该用户配对</string>
+    <string name="toast_matchLater">你可以稍后到“我的账户”中与伴侣配对</string>
+    <string name="toast_password">两次密码输入不一致！</string>
+    <string name="toast_signup">注册成功！</string>
+    <string name="toast_userCancel">用户已取消</string>
+
+</resources>

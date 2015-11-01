@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_card"
+    android:orientation="vertical">
+
+    <!--<ImageView-->
+    <!--android:id="@+id/image"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:gravity="center"-->
+    <!--android:maxHeight="300dp"-->
+    <!--android:maxWidth="300dp"-->
+    <!--/>-->
+    <com.etsy.android.grid.util.DynamicHeightImageView
+        android:id="@+id/image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:scaleType="centerInside" />
+
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="4dp"
+        android:paddingLeft="10dp"
+
+
+        android:paddingRight="8dp"
+        android:paddingTop="4dp"
+        />
+    <TextView
+        android:id="@+id/location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="4dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="8dp"
+        android:paddingTop="4dp"
+        />
+    <TextView
+        android:id="@+id/date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingBottom="4dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="8dp"
+        android:paddingTop="4dp"
+        />
+    <TextView
+        android:id="@+id/user"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="4dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="8dp"
+        android:paddingTop="4dp"
+
+
+        />
+
+
+</LinearLayout>
