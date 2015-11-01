@@ -1,4 +1,5 @@
 # Love Story -Private Cloud-based album for couples
+This is my final project for the Object-Oriented Programming II course at Columbia University. 
 Download from Google Play: http://bit.ly/1CzoqH5
 # App Features:
 <ul>
